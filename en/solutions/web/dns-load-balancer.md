@@ -4,6 +4,8 @@ This tutorial describes how to set up a website with load balancing between two 
 
 To set up a fault tolerant website with DNS load balancing:
 
+Oh NO!! What is it????
+
 1. [In different availability zones, create two VMs with a pre-installed web server](#create-web-server-vm)
 1. [Upload the website files](#upload-files)
 1. [In different availability zones, create two VMs for DNS load balancers](#create-dns-balancer-vm)
